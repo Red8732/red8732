@@ -1,16 +1,19 @@
-### Hi there 👋
+------------------------------------------------------------------------------------------
 
-<!--
-**Red8732/red8732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                       Hi 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+• I'm Marcos, an Software Enginnering student at UCSal in Salvador, Bahia - Brazil 🌊
+
+
+• Currently studing programming and software development! ✍
+
+
+• I like to code 💻, play 🎮 and hang out with friends at gym 💪 or somewhere else 🌎
+
+
+• Anything you like to tell me, just send me a message at my email: marcos187321@gmail.com 
+
+
+------------------------------------------------------------------------------------------
