@@ -4,7 +4,7 @@
 
 
 
-• I'm Marcos, an Software Enginnering student at UCSal in Salvador, Bahia - Brazil 🌊
+• I'm Marcos, an Software Engineering student at UCSal in Salvador, Bahia - Brazil 🌊
 
 
 • Currently studing programming and software development! ✍
